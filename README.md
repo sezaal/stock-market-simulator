@@ -1,48 +1,23 @@
 # stock-market-simulator
-INTRODUCTION
+INTRODUCTION:
 This project is a stock market simulator in python. It stimulates the market by randomising the values based on the news. It simplifies the notion of good news and bad news relating to a company and helps students understand the stock market.
 
-AIM
+AIM:
 The aim of this project is to make students aware about the stock market and its workings. It is designed to explain and show what a simplified stock market looks like. It also helps the students in understanding the core principles of the stock market and what the true market may look like.
 
-IDEA SOURCE
+IDEA SOURCE:
 The source for this idea stems from our interest in stocks. We wanted to create a program that can help introduce students to the world of stocks.
 
-PLAN FOR IMPLEMENTATION
+PLAN FOR IMPLEMENTATION:
 The game code is ready. We plan on adding a leaderboard functionality for contests. We intend to use a csv file to store and sort them everytime. We are also considering a way for the user to enter their own starting amount and practice with different sums of money.
 
 TYPE OF DATA: BINARY File
 
 
 Data Items                   Data Type                        Description
-Name                            string                                                                                                                                                                                                     
-Final Amount                 int
-Profit Percentage           float
-
-Tabular Representation Of a Sample Data
-
-Name
-Final Amount
-Profit Percentage
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Name                            string                                                                                                                                                                                              
+Final Amount                     int
+Profit Percentage                float
 
 MENU OPTIONS
 
